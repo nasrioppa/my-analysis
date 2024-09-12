@@ -1,0 +1,17 @@
+---
+title: "Penguins Plots"
+author: "Nasri"
+date: "2024-09-10"
+output: html_document
+---
+
+# Penguin Plots: Practice Analysis
+
+## Setting up my environment
+Note: setting up my R environment by loading the `tidyverse` and
+`palmerpenguins` packages:
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+```
+
