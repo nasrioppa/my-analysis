@@ -1,0 +1,49 @@
+Product ID;Product Category;Product Subcategory;Product Name;Product Description;Product Price;Product Weight;Product Size
+1001;Mountain Bikes;Cross Country;TrailBlazer 1000;Lightweight and versatile;1200.00;25.0;M
+1002;Mountain Bikes;Cross Country;TrailBlazer 2000;High-performance mountain bike;1500.00;22.0;L
+1003;Road Bikes;Racing;SpeedMaster 1000;Agile and aerodynamic road bike;1800.00;18.0;M
+1004;Road Bikes;Racing;SpeedMaster 2000;Premium racing road bike;2100.00;16.0;L
+1005;Touring Bikes;Long Distance;Explorer 1000;Comfortable and durable touring bike;1300.00;27.0;M
+1006;Touring Bikes;Long Distance;Explorer 2000;Advanced touring bike;1600.00;24.0;L
+1007;Mountain Bikes;Downhill;GravityMaster 1000;Rugged and durable downhill bike;2200.00;29.0;M
+1008;Mountain Bikes;Downhill;GravityMaster 2000;;2500.00;27.0;L
+1021;Mountain Bikes;Trail;Pathfinder 1000;Agile trail bike for all skill levels;1100.00;24.0;M
+1022;Mountain Bikes;Trail;Pathfinder 2000;High-performance trail bike;1400.00;21.0;L
+1023;Road Bikes;Touring;Voyager 1000;Comfortable touring road bike;1700.00;20.0;M
+1024;Road Bikes;Touring;Voyager 2000;Advanced touring road bike;2000.00;18.0;L
+1025;Touring Bikes;;Adventurer 1000;Durable bike for long adventures;1500.00;28.0;M
+1026;Touring Bikes;Adventure;Adventurer 2000;Premium adventure touring bike;1800.00;26.0;L
+1027;Mountain Bikes;Enduro;EnduroMaster 1000;Endurance-focused mountain bike;2300.00;30.0;M
+1028;Mountain Bikes;Enduro;EnduroMaster 2000;High-performance enduro mountain bike;2600.00;28.0;L
+1041;Mountain Bikes;Fat Bikes;FatTrail 1000;All-terrain fat bike;1300.00;32.0;M
+1042;Mountain Bikes;Fat Bikes;FatTrail 2000;High-performance fat bike;1600.00;29.0;L
+1043;Road Bikes;Cyclocross;CrossRider 1000;Versatile cyclocross bike;1900.00;21.0;M
+1044;Road Bikes;Cyclocross;CrossRider 2000;Advanced cyclocross bike;2200.00;19.0;L
+1045;Touring Bikes;Tandem;DuoExplorer 1000;Comfortable tandem touring bike;2000.00;36.0;M
+1046;Touring Bikes;Tandem;DuoExplorer 2000;High-performance tandem touring bike;2300.00;34.0;L
+1047;Mountain Bikes;Electric;E-Mountain 1000;Electric mountain bike;3000.00;40.0;M
+1048;Mountain Bikes;Electric;E-Mountain 2000;High-performance electric mountain bike;3500.00;38.0;L
+1061;E-Bikes;City;UrbanEco 1000;Eco-friendly electric city bike;2000.00;35.0;M
+1062;E-Bikes;City;UrbanEco 2000;High-performance electric city bike;2500.00;33.0;L
+1063;Road Bikes;Gravel;GravelMaster 1000;All-terrain gravel bike;1700.00;22.0;M
+1064;Road Bikes;Gravel;GravelMaster 2000;High-performance gravel bike;2100.00;20.0;L
+1065;Touring Bikes;Folding;FoldAway 1000;Compact folding touring bike;1500.00;30.0;M
+1066;Touring Bikes;Folding;FoldAway 2000;Advanced folding touring bike;1800.00;28.0;L
+1067;E-Bikes;Mountain;E-TrailBlazer 1000;Electric mountain bike;3200.00;42.0;M
+1068;E-Bikes;Mountain;E-TrailBlazer 2000;High-performance electric mountain bike;3700.00;40.0;L
+1081;Hybrid Bikes;Commuter;CommutePro 1000;Efficient commuter hybrid bike;1200.00;27.0;M
+1082;Hybrid Bikes;Commuter;CommutePro 2000;High-performance commuter hybrid bike;1500.00;25.0;L
+1083;Road Bikes;Aero;AeroSpeed 1000;Aerodynamic road bike;2800.00;18.0;M
+1084;Road Bikes;Aero;AeroSpeed 2000;Advanced aerodynamic road bike;3200.00;16.0;L
+1085;Touring Bikes;Recumbent;ReclineRider 1000;Comfortable recumbent touring bike;2000.00;33.0;M
+1086;Touring Bikes;Recumbent;ReclineRider 2000;High-performance recumbent touring bike;2400.00;30.0;L
+1087;Mountain Bikes;Downhill;DownhillDominator 1000;Downhill mountain bike;2900.00;34.0;M
+1088;Mountain Bikes;Downhill;DownhillDominator 2000;High-performance downhill mountain bike;3300.00;32.0;L
+1101;Kids Bikes;Balance;LittleBalancer 1000;Starter balance bike for kids;150.00;10.0;M
+1102;Kids Bikes;Balance;LittleBalancer 2000;Upgraded balance bike for kids;200.00;9.0;L
+1103;BMX Bikes;Freestyle;FreestyleMaster 1000;Beginner freestyle BMX bike;400.00;25.0;M
+1104;BMX Bikes;Freestyle;FreestyleMaster 2000;Advanced freestyle BMX bike;600.00;23.0;L
+1105;Mountain Bikes;Cross Country;XC-Rider 1000;Cross country mountain bike;1800.00;29.0;M
+1106;Mountain Bikes;Cross Country;XC-Rider 2000;High-performance cross country bike;2400.00;27.0;L
+1107;Road Bikes;Endurance;EnduranceElite 1000;Endurance road bike;2100.00;20.0;M
+1108;Road Bikes;Endurance;EnduranceElite 2000;High-performance endurance road bike;2600.00;18.0;L

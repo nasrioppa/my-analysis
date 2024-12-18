@@ -1,0 +1,18 @@
+Stakeholder Identification
+Briefly explain why any two of the stakeholder groups at Adventure Works may have an interest in the insights related to the sales performance of various products.
+
+Sales Team: The sales team has a direct interest in the sales performance of various products. Understanding which products are selling well and which are not allows them to focus their efforts on promoting the most successful products and identifying areas for improvement in less popular ones. This information can also help them tailor their sales pitches and strategies to meet customer needs and preferences more effectively.
+
+Product Development Team: The product development team is also interested in sales performance data. By analyzing sales trends, they can identify successful product features and areas for improvement. This information helps them prioritize product development efforts, allocate resources more efficiently, and ensure that future products meet customer demands and preferences.
+
+Which of the stakeholders need to know about customer preferences when it comes to Adventure Works’ products? Why is this information important for them?
+
+All stakeholder groups at Adventure Works need to know about customer preferences. This information is essential for:
+
+Sales Team: Understanding customer preferences allows the sales team to tailor their sales pitches and strategies to meet customer needs, increasing the likelihood of successful sales.
+
+Marketing Team: Customer preferences inform marketing campaigns and promotional activities. Knowing what customers want helps the marketing team create targeted and effective campaigns.
+
+Product Development Team: Understanding customer preferences is crucial for developing new products that meet customer needs and desires. It helps the product development team prioritize features and make informed decisions about product design and functionality.
+
+Management: Customer preferences provide valuable insights into market trends and customer satisfaction. This information helps management make strategic decisions, allocate resources effectively, and ensure the company's long-term success.

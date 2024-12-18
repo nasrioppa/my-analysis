@@ -1,0 +1,1 @@
+clone sales > select column > group
